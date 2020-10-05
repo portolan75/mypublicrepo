@@ -1,4 +1,5 @@
 # mypublicrepo
 Test Public Repo\
 A new line from RStudio\
-Added a new line too
+Added a new line too\
+4th line as requested
