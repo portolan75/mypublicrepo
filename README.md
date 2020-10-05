@@ -1,2 +1,3 @@
 # mypublicrepo
-Test Public Repo
+Test Public Repo\
+A new line from RStudio
