@@ -1,8 +1,6 @@
 ---
 title: "Paolo Test for Markdown"
-output:
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
