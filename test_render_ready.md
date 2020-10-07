@@ -31,5 +31,7 @@ You can also embed plots, for example:
 
 ![](test_render_ready_files/figure-gfm/r%20pressure-1.png)<!-- -->
 
-<sup>\[</sup>Note: The `echo = FALSE` parameter was added to the code
-chunk to prevent printing of the R code that generated the plot.\]
+
+    Note: The `echo = FALSE` parameter was added to the code chunk to
+    prevent  
+    printing of the R code that generated the plot.
