@@ -33,5 +33,5 @@ You can also embed plots, for example:
 
 \[1\]
 
-1.  Note that The `echo = FALSE` parameter was added to the code chunk
-    to prevent printing of the R code that generated the plot.
+1.  Note: The `echo = FALSE` parameter was added to the code chunk to
+    prevent printing of the R code that generated the plot.
