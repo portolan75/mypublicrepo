@@ -31,5 +31,5 @@ summary(cars)
 #+ r pressure, echo=FALSE
 plot(pressure)
 
-#' ^[Note: The `echo = FALSE` parameter was added to the code chunk to prevent 
+#' ^[^Note: The `echo = FALSE` parameter was added to the code chunk to prevent 
 #' printing of the R code that generated the plot.]
