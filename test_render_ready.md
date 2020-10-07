@@ -1,16 +1,17 @@
--   [R Markdown](#r-markdown)
--   [Including Plots](#including-plots)
+Paolo Test for Markdown
+================
 
-R Markdown
-----------
+  - [R Markdown](#r-markdown)
+  - [Including Plots](#including-plots)
+
+## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see
-<a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+using R Markdown see <http://rmarkdown.rstudio.com>. When you click the
+**Knit** button a document will be generated that includes both content
+as well as the output of any embedded R code chunks within the document.
+You can embed an R code chunk like this:
 
 ``` r
 summary(cars)
@@ -24,12 +25,11 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-Including Plots
----------------
+## Including Plots
 
 You can also embed plots, for example:
 
-![](test_render_ready_files/figure-markdown_github/r%20pressure-1.png)
+![](test_render_ready_files/figure-gfm/r%20pressure-1.png)<!-- -->
 
-<sup>\[Note\ that\ `echo = FALSE`\ parameter\ was\ added\ to\ the\ code\ chunk\ to\ prevent\]\ </sup>\[printing
-of the R code that generated the plot.\]
+<sup>\[Note that `echo = FALSE` parameter was added to the code chunk to
+prevent\] </sup>\[printing of the R code that generated the plot.\]

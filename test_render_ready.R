@@ -1,10 +1,12 @@
 #' ---
 #' title: "Paolo Test for Markdown"
+#' author: ""
+#' date: ""
 #' output:
-#'   md_document:
-#'     variant: markdown_github
+#'   github_document:
 #'     toc: true
 #'     toc_depth: 2
+#'     
 #' ---
 #'   
 #+ r setup, include=FALSE
