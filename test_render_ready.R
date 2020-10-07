@@ -6,7 +6,6 @@
 #'   github_document:
 #'     toc: true
 #'     toc_depth: 2
-#'     
 #' ---
 #'   
 #+ r setup, include=FALSE
@@ -32,5 +31,5 @@ summary(cars)
 #+ r pressure, echo=FALSE
 plot(pressure)
 
-#' ^[Note that `echo = FALSE` parameter was added to the code chunk to prevent]
-#' ^[printing of the R code that generated the plot.]
+#' ^[Note that The `echo = FALSE` parameter was added to the code chunk to prevent
+#' printing of the R code that generated the plot.]
